@@ -1,5 +1,7 @@
-# nitintutlani/dev-docker-images
+# Images for running php-fpm and mysql on openshift origin v3
+
 Collection of useful docker images for development tasks
+based onnitintutlani/dev-docker-images
 
 I am preparing these images/repos for use in deploying Openshift v3 projects. Most images here use alpine linux to keep the resulting S2I images small and fast.
 
